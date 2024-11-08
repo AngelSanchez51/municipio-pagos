@@ -1,0 +1,13 @@
+{
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packagist.org"
+        }
+    ],
+    "require": {
+        "paypal/rest-api-sdk-php": "^1.14",
+        "paypal/paypal-checkout-sdk": "^1.0",
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
