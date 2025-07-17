@@ -60,5 +60,7 @@ http://localhost/municipio-pagos
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más información.
-
+![GitHub last commit](https://img.shields.io/github/last-commit/AngelSanchez51/municipio-pagos)
+![GitHub repo size](https://img.shields.io/github/repo-size/AngelSanchez51/municipio-pagos)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
