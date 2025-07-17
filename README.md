@@ -1,4 +1,6 @@
 1 # Plataforma de Pagos en Línea para el Servicio de Agua Potable - Municipio de Atlacomulco
+![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-blue.svg)
+
 
 2 # Este sistema permite a los ciudadanos de algun municipio realizar poder realizar sus pagos del servicio de agua potable de forma segura y rápida. Desarrollado como proyecto universitario, integra una interfaz intuitiva con autenticación de usuarios y conexión con pasarela de pagos con el SandBox de PayPal.
 
@@ -47,3 +49,10 @@ http://localhost/municipio-pagos
 2. Iniciar sesión con cuenta personal.
 3. Visualiza tu historial y realiza pagos desde el panel de usuario.
 4. Confirma tu pago mediante PayPal y recibe tu comprobante.
+
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más información.
+
+
