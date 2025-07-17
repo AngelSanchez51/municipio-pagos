@@ -49,7 +49,7 @@ http://localhost/municipio-pagos
 2. Iniciar sesión con cuenta personal.
 3. Visualiza tu historial y realiza pagos desde el panel de usuario.
 4. Confirma tu pago mediante PayPal y recibe tu comprobante.
-
+```
 
 ## Licencia
 
