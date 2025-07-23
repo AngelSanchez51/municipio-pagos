@@ -57,7 +57,7 @@ http://localhost/municipio-pagos
 4. Confirma tu pago mediante PayPal y recibe tu comprobante.
 ```
 ![Progreso GitHub](progress.png)
-
+![Progreso GitHub](paypaluser.png)
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más información.
