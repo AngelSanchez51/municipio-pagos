@@ -58,6 +58,7 @@ http://localhost/municipio-pagos
 ```
 ![Progreso GitHub](progress.png)
 ![Progreso GitHub](paypaluser.png)
+![Progreso GitHub](users.png)
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más información.
