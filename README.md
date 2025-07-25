@@ -20,6 +20,7 @@
 - Integración con PayPal para pagos en línea
 - Backend en PHP y MySQL
 
+
 4 ## Tecnologías incluidas
 - PHP
 - MySQL
