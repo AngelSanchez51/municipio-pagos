@@ -13,6 +13,7 @@
 2 # Este sistema permite a los ciudadanos de algun municipio realizar poder realizar sus pagos del servicio de agua potable de forma segura y rápida. Desarrollado como proyecto universitario, integra una interfaz intuitiva con autenticación de usuarios y conexión con pasarela de pagos con el SandBox de PayPal.
 
 
+
 3 ## Características del proyecto
 - Registro e inicio de sesión de usuarios
 - Consulta de historial de pagos
