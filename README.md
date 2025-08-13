@@ -26,7 +26,6 @@
 - PayPal API
 - Git
 
-
 5 ## Instalación del repositorio
 
 1. Clonar el repositorio:
