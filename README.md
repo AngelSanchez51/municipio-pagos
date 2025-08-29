@@ -22,6 +22,7 @@
 - Integración con PayPal para pagos en línea
 - Backend en PHP y MySQL
 
+
 4 ## Tecnologías incluidas
 - PHP
 - MySQL
@@ -29,6 +30,7 @@
 - HTML5 / CSS3
 - PayPal API
 - Git
+
 
 5 ## Instalación del repositorio
 
