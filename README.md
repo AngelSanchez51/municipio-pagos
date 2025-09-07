@@ -51,6 +51,7 @@ Crear una base de datos en phpMyAdmin llamada municipio_pagos.
 7. Acceder desde el navegador:
 http://localhost/municipio-pagos
 
+
 ---
 
 6 ### Uso del sistema
